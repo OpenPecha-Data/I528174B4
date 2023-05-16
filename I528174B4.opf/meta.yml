@@ -1,0 +1,18 @@
+id: I528174B4
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:14.264553
+last_modified: 2023-01-04 11:29:14.264567
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  EDB4:
+    title: Light from the Wisdom Sun
+    base_file: EDB4.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
